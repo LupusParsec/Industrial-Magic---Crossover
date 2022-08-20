@@ -149,7 +149,6 @@ research_stage.emt:armor.1=New Type Armor.
 research_stage.emt:armor.2=WIP PAGE!
 
 
-//research_stage.emt:g.1=
 //research_name.emt:tools=
 //research_stage.emt:tools.1=
 //research_stage.emt:tools.2=
@@ -183,8 +182,8 @@ research_stage.emt:armor.2=WIP PAGE!
 //research_stage.emt:emt2.2=
 
 research_name.emt:generator=Generator and Aspects
-research_stage.emt:generator.1=Maybe I make new mechinism?
-research_stage.emt:generator.2=Yes, It's done and now, I can try out generate energy with Aspects.
+research_stage.emt:g.1=What about a new mechinism?<BR>Energy is a fundamental resource when working with industrial machinery. Potentia sounds as the perfect aspect to provide energy using magic, of course. I should start here to explore the true energistic potential of aspects.
+research_stage.emt:g.2=Yes, It's done and now, I can try out generate energy with Aspects.
 
 research_name.emt:generator_a=Generator and Aer
 research_stage.emt:ga.1=I continue to experiment with aspects!
